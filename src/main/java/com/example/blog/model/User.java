@@ -4,8 +4,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotEmpty;
-
 
 @AllArgsConstructor
 @Data
