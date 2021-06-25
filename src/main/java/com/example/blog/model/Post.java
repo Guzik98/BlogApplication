@@ -1,6 +1,5 @@
 package com.example.blog.model;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
@@ -8,7 +7,6 @@ import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotEmpty;
 import java.time.Instant;
-
 
 @AllArgsConstructor
 @Data
